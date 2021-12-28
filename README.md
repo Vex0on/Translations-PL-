@@ -1,1 +1,1 @@
-# Translations-PL-
+# Polish translations of games & mods
