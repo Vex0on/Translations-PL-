@@ -157,17 +157,17 @@
 			"Action": "EditData",
 			"Target": "strings/schedules/Marnie",
 			"Entries": {
-				"marriage_Mon.000": "Hi, honey. Everything's going fine here at the shop... What a relief!",
-				"marriage_Wed.000": "@! How nice of you visit. Don't worry! I'll be home at 5.",
-				"marriage_Fri.000": "Oh, honey! Let's go to the saloon tonight! I get off at 5.",
-				"marriage_Fri.001": "Wine is such a great way to relax after work.",			},
+				"marriage_Mon.000": "Cześć skarbie. W sklepie wszystko dobrze się układa... Co za ulga!",
+				"marriage_Wed.000": "@! Jak miło, że chcesz wpaść. Nie martw się! Będę w domu o 5.",
+				"marriage_Fri.000": "Och kochanie! Chodźmy dziś wieczorem do knajpy! Kończę o 5.",
+				"marriage_Fri.001": "Wino to świetny sposób na relaks po pracy.",			},
 		},
 		{
 			"Action": "EditData",
 			"Target": "Data/EngagementDialogue",
 			"Entries": {
-				"Marnie0": "You want to marry me...!#$e#You're so strange, @. But I can't wait to be your wife.$4",
-				"Marnie1": "Shane agreed to take care of the ranch and Jas.#$e#Everything's falling into place... Just a couple more days!$h",
+				"Marnie0": "Chcesz się ze mną ożenić...!#$e#Jesteś taki dziwny, @. Ale nie mogę się doczekać, aby zostać Twoją żoną.$4^Chcesz się ze mną ożenić...!#$e#Jesteś taka dziwna, @. Ale nie mogę się doczekać, aby zostać Twoją żoną.",
+				"Marnie1": "Shane zgodził się zająć ranczem i Jas.#$e#Wszystko się układa... Już tylko kilka dni!$h",
 			},
 		},
 	]
