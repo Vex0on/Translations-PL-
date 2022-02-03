@@ -1,0 +1,31 @@
+{
+    // Text
+    
+    "camphor.text": "Witaj kochanie,^^ Gdy George i ja zaczęliśmy się starzeć, musieliśmy bardziej zadbać o nasze zdrowie. Odkryłam, że Kamfora czyni cuda ze stawami i skórą.^ Nie wiem, czy masz miejsce na swojej farmie, aby posadzić to drzewko, ale pomyślałam, że może Cię to zainteresować.^^  -Evelyn",
+    "breadfruit.text": "Droga/i @,^^ Otrzymałem to od Willy'ego, który zdobył to nielegalnie podczas rejsu na południe. Bądź wdzięczna/y i wysyłaj mu w razie co paczki do pierdla.^ Wiem, że to nie jest odpowiednia pora roku, ale jeśli zasadzisz to zimą, będziesz miał ładne drzewo chlebowe do zbioru wiosną.^^  -Elliott",
+    // "cassia.text": "Hello, @.^^ Some sort of veterans' charity gifted this to me for my service. It was a symbolic gift and I know it's the thought that counts, but I have to admit I don't think I'll actually plant this.^I'd hate to see the thing die, though. Think you can make it grow?^^  -Kent",
+    "eucalyptus.text": "Hej @,^^ Czy kiedykolwiek zastanawialiście się, jak by to było mieć koale na swojej farmie?^ Cóż, ja też nie, dopóki tata i ja nie zaczęliśmy pracować przy pewnych badaniach. Wygląda na to, że koale nie mogą żyć w Stardew Valley, ale ich jedyne źródło pożywienia może!^ Oto resztki drzewka eukaliptusa pochodzące z naszych badań. Bierz i nie marudź.^^  -Maru",
+    "fig.text": "Kochani @,^^ Obecnie badam naturalną ewolucję drzew figowych. Moja hipoteza jest taka, że ​​ta sadzonka wyda bardzo duże owoce, ale jest tylko jeden sposób, żeby się o tym przekonać!^Jeśli zdołacie ją posadzić, będę regularnie sprawdzać zbiory, aby zebrać dane. Ale wszystkie figi będą Wasze!^^ -Demetrius",
+    "grapefruit.text": "@,^^  Codziennie rano piję koktajl proteinowy z grejpfrutem. Potrzebuję tak zbilansowanego śniadania!^ Przeczytałem artykuł mówiący, że lokalnie uprawiane grejpfruty są świeższe i zdrowsze, więc... Nie wiem, mam jeszcze trochę towaru. Myślisz, że mógłbyś zostać moim grejpfrutowym dilerem?^^  -Alex",
+    "melaleuca.text": "Kochani @,^^  Jacyś podejrzani ekolodzy przysłali mi tę sadzonkę i kazali ją zasadzić. Chyba znaleźli moje nazwisko na przemytniczej liście. Idioci nie wiedzieli, że nie uprawiam nielegalnych drzew na mojej farmie. Czy bylibyście zainteresowani?^ Słyszałam, że te drzewa są bardzo piękne, a palenie ich liści poprawia nastrój. Czaisz baze?^^  -Marnie",
+    "persimmon.text": "Cześć.^^ Znalazłem to. Podoba Ci się? Szturch, szturch^^ Możesz to zatrzymać.^^ Saneczkarz  - Myszek Kapeluszniczek",
+    "pomelo.text": "Hej @!^^ Kiedy mieszkaliśmy w Zuzu City, moja mama cały czas kradła pomelo, ale tutaj Vincent nawet nie miał okazji ich spróbować.^ Mój pomysł jest taki, że możesz je wyhodować, a wtedy wszyscy będziemy mogli cieszyć się owocami, które na nim wyrosną. Są szanse, że Vincent spadnie z drzewa! Jestem pewien, że byłoby to dla nas wszystkich naprawdę wyjątkowe.^^  -Sam",
+    "vanilla.text": "Pozdrowionka,^^  Mam nadzieję, że przyda Ci się ta sadzonka. Ziarna wanilii kryją w sobie wiele ,he he, 'odlotowych' właściwości, a Czarodzieje na całym świecie od wieków stosują ją w miksturach i narkotykach.^ Fakt, że smakuje wybornie w lodach, jest tylko zbiegiem okoliczności.^^ -M. Rasmodius, Wizard",
+    "fragrantwisteria.text": "Hej @,^^ Jak to opisać? Te drzewa pachną naprawdę magicznie. Ich upojny zapach nie raz towarzyszył mi podczas nocnych ekscesów.^ Wiem, że wysyłam Ci to na pałe, ale uwierz mi -- Tobie też się spodoba. Mrrauuu ^^  -Abigail",
+    "ylangylang.text": "Hej @,^^ Czytałam, że kwiaty tego drzewa są dobre dla skóry. A dodatkowo jest takie piękne, kiedy kwitnie. Może chcesz spróbować je posadzić? A gdy zbierzesz kwiaty może zaprosisz mnie na wspólną kąpiel w płatkach?^^ -Abigail",
+
+    // Titles
+
+    "camphor.title": "Sadzonka drzewa kamforowego",
+    "breadfruit.title": "Sadzonka drzewa chlebowego",
+    // "cassia.title": "Cassia Sapling",
+    "eucalyptus.title": "Sadzonka drzewa eukaliptusa",
+    "fig.title": "Sadzonka figowca",
+    "grapefruit.title": "Sadzonka grejpfruta",
+    "melaleuca.title": "Sadzonka drzewa herbacianego",
+    "persimmon.title": "Sadzonka persymony",
+    "pomelo.title": "Sadzonka pomelo",
+    "vanilla.title": "Sadzonka wanilii",
+    "fragrantwisteria.title": "Sadzonka Glicynii",
+    "ylangylang.title": "Sadzonka jagodlinu wonnego",
+}
