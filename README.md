@@ -6,4 +6,7 @@
 
 PPJA Collection (Stardew Valley pack of mods | Done with Wrobelek):
 - [x] Fruits and Veggies
-- [ ] More Trees - Work in progress, i need to finish mails
+- [x] More Trees
+- [x] Champagne Wishes
+- [x] Christmas Sweets
+- [ ] Hot Cocoa Shop (I need to finish [JA] and [TMX])
