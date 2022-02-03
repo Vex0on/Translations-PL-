@@ -1,0 +1,34 @@
+{
+
+// Text
+
+"icedchristmastree.text": "Kochana/y @,^Pomyślałam o Tobie, gdy zastanawiałam się, jak rozbudzić w tym roku świąteczny nastrój. To bardzo prosty przepis na ciasteczka z cukrem, na który nawet najbardziej zapracowani zdołają znaleźć czas. Wesołych świąt kochanie!^   -Evelyn",
+"iceddecoratedchristmastree.text": "Kochana/y @,^Załączam stary, rodzinny przepis na ciasteczka. Udoskonalałam ten przepis przez lata, aby był doskonały. Teraz dekoracje ciasteczek wyglądają tak pięknie, że nie można ich nie pokochać.^ Zrób je dla rodziny lub dla tej jednej, wyjątkowej osoby!^ Ściskam!    -Evelyn",
+"icedgreenchristmastree.text": "Kochana/y @,^Mam nadzieję, że w tym miesiącu zrobisz trochę ciasteczek! Bez nich święta po prostu nie byłyby takie same.^ W każdym razie powierzam Ci jeden z moich ulubionych przepisów na ciasteczka. Dzięki temu przepisowi zdobyłam pierwszą nagrodę w konkursie na świąteczne wypieki jakieś dwadzieścia lat temu! Niech twoja zima będzie mroźna i radosna!^^   -Evelyn",
+"jamfilledcookie.text": "Kochana/y @,^Ten przepis na ciasteczka to stary świąteczny klasyk. Pojawiają się w moich najwcześniejszych, świątecznych wspomnieniach.^ Nawet dziś maluchy, takie jak Vincent i Jas, nie mogą się oprzeć ich urokowi na półmisku pełnym najróżniejszych ciasteczek. To taka mała świateczna radość, do zobaczenia!^   -Evelyn",
+"mittencookie.text": "Kochana/y @,^Ponieważ jesteś po sezonie i wszystkie pola są zamarznięte, pomyślałam, że zostawię Ci coś zabawnego w kuchni.^To jest mój przepis na Rękawiczusie. Bądź cierpliwa/y podczas nakładania lukru, aby uzyskać ładny, równy zygzak. On na pewno wywoła uśmiech na twarzy każdego, kto go zje.^   -Evelyn",
+"pufferchickcookie.text": "Kochana/y @,^Ten przepis na ciasteczka nie jest specjalnie świąteczny, ale nigdy nie zaszkodzi mieć kilka zabawnych lub głupich ciasteczek do dekorowania.^Jeśli chodzi o szerzenie radości, niektórzy z nas po prostu uwielbiają myśleć nieszablonowo i modyfikować tradycje. Niech każdy robi to co go uszczęśliwia, buziaki!^   -Evelyn",
+"snowmancookie.text": "Kochana/y @,^Wesołego ucztowania! W każdym ciasteczku zaklęłam małą, niewinną duszę.^ Te małe bałwanki wyglądają tak słodko, że szkoda je jeść. Na szczęście smakują tak dobrze, że prawie nie słychać ich wołania o pomoc. Nie próbuj zabierać im ich lukrowanych guziczków.^ Pobaw się nimi, kochanie!^   -Evelyn",
+"hollydecoratedcookie.text": "Kochana/y @,^Te ciasteczka są piękne, więc dlaczego nie spróbujesz?^ Do liści ostrokrzewu i jagód zawsze możesz użyć lukru królewskiego, ale jeśli chcesz uzyskać bardziej trójwymiarowy wygląd, użyj odrobiny lukru fondant.^ To ukochane ciastka George'a. Mam nadzieję, że Ty też je pokochasz!^   -Evelyn",
+"snowmanscenerycookie.text": "Kochana/y @,^Och, pada śnieg!^Wiem, że nie boisz się wyzwań, kochanie, więc załączam instrukcję krok po kroku, jak zrobić najpiękniejsze ciasteczka z bałwankami.^ Wyglądają tak żywo jakby miały zaraz błagać o litość, też Ci się tak wydaje?^ Daj mi znać, jeśli nie będą dawały się ujarzmić – chętnie doprowadzę je do porządku!^   -Evelyn",
+"stardropcookie.text": "Kochana/y @,^Wszyscy wiemy, że kiedy czekamy na pierwszą gwiazdkę, myślimy o Gwiazdce z nieba.^ Nie jest to może prawdziwa gwiazda, ale jest to najlepsza rzecz, jaką znajdziesz na stole! Jeszcze nie znalazłem nikogo, kto byłby rozczarowany tym przepisem.^ Wesołego ucztowania!^   -Evelyn",
+"stockingcookie.text": "Kochana/y @,^Ho, ho, ho! Co chcesz znaleźć w swojej skarpeciuszce w tym roku na Gwiazdkę, kochanie?^ Nie ważne o czym marzysz, te małe skarpeciuchy z pewnością wprawią Cię w świąteczny nastrój. Dlaczego nie zjesz ich wszystkich?^   -Evelyn",
+"christmaschocolatecandiecookies.text": "Kochana/y @,^Wesołych Świąt! Chcę podzielić się z Wami moim tajnym przepisem.^ Jest taki sam jak mój standardowy przepis na ciasteczka jednakże oprócz kawałków czekolady używa się jeszcze czerwonych i zielonych żelków.^ Jeśli chcesz dostać cukrzycy, możesz dodać również czekoladowych cukierków z masłem orzechowym. Nie porzygaj się!^    -Evelyn",
+
+// Titles
+
+"icedchristmastree.title": "Przepis na Ośnieżoną choinkę",
+"iceddecoratedchristmastree.title": "Przepis na Ośnieżoną, udekorowaną choinkę",
+"icedgreenchristmastree.title": "Przepis na Ośnieżoną, zieloną choinkę",
+"jamfilledcookie.title": "Przepis na Ciastko z dżemusiem",
+"mittencookie.title": "Przepis na Rękawiczusie",
+"pufferchickcookie.title": "Przepis na Ciasteczko Pufkowe",
+"snowmancookie.title": "Przepis na Olafa",
+"hollydecoratedcookie.title": "Przepis na Ciasteczko udekorowane ostrokrzewem",
+"snowmanscenerycookie.title": "Przepis na Zimową przygodę",
+"stardropcookie.title": "Przepis na Gwiazdkę z nieba",
+"stockingcookie.title": "Przepis na Skarpeciuchę",
+"christmaschocolatecandiecookies.title": "Przepis na Świąteczne, czekoladowe ciasteczko z żelkami"
+
+}
+
