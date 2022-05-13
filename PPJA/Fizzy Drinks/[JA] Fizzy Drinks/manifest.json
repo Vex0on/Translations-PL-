@@ -1,0 +1,20 @@
+{
+  "Name": "[JA] Fizzy Drinks",
+  "Author": "MelindaC and Fwippy (PL - Wrobelek & Vexon)",
+  "Version": "3.0.2",
+  "Description": "Dodaje nowe pasze, drzewa owocowe i produkty zbożowe dla moda Artisanal Soda Makers.",
+  "UniqueID": "MelindaC.FizzyDrinks",
+    "ContentPackFor": {
+    	"UniqueID": "spacechase0.JsonAssets"},
+   "UpdateKeys": [ "Nexus:5342" ],
+"Dependencies": [
+   {
+      "UniqueID": "Hadi.JASoda",
+      "IsRequired": true,
+   },
+   {
+      "UniqueID": "ppja.KRSCP",
+      "IsRequired": false,
+   }
+]
+  }

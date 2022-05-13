@@ -1,0 +1,13 @@
+{
+  "Name": "Fizzy Drinks Forage",
+  "Author": "Fwippy and MelindaC",
+  "Version": "3.0.2",
+  "Description": "Zasady odradzania się dla sasafrasu, sarsaparilli, kory brzozowej i końcówek świerka dodane przez napoje gazowane.",
+  "UniqueID": "MelindaC.FizzyDrinksFTM",
+  "MinimumApiVersion": "3.0",
+  "UpdateKeys": [ "Nexus:5342" ],
+  "ContentPackFor": {
+    "UniqueID": "Esca.FarmTypeManager",
+    "MinimumVersion": "1.9.2"
+  }
+}

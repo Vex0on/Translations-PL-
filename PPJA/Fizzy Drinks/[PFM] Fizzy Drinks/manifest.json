@@ -1,0 +1,23 @@
+{
+	"Name": "[PFM] Fizzy Drinks",
+	"Author": "Fwippy and MelindaC (PL - Wrobelek & Vexon)",
+	"Version": "3.0.2",
+	"Description": "Zasady produkcji dla moda Fizzy Drinks",
+	"UniqueID": "MelindaC.FizzyDrinksPFM",
+	"MinimumApiVersion": "3.0.0",
+	"UpdateKeys": [ "Nexus:5342" ],
+	"ContentPackFor": {
+		"UniqueID": "DIGUS.ProducerFrameworkMod"
+	},
+	"Dependencies": [
+   {
+      "UniqueID": "MelindaC.FizzyDrinks",
+      "IsRequired": true,
+   },
+	{
+      "UniqueID": "lycanglass.JCR",
+      "IsRequired": false,
+   },
+
+]
+}
