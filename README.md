@@ -9,4 +9,5 @@ PPJA Collection (Stardew Valley pack of mods | Done with Wrobelek):
 - [x] More Trees
 - [x] Champagne Wishes
 - [x] Christmas Sweets
+- [x] Fizzy Drinks
 - [ ] Hot Cocoa Shop (I need to finish [JA] and [TMX])
